@@ -1,0 +1,8 @@
+services:
+  vehicle-detector:
+    build: .
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./scripts:/app/scripts  
+      - ./imgs:/app/imgs

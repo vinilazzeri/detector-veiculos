@@ -72,9 +72,11 @@ Below are sample predictions made by the YOLOv8 model on test images and videos:
 |--------|--------|--------|
 | ![Prediction 1](https://github.com/user-attachments/assets/b9dd9402-0fd2-4159-a4c7-16a0a9f6d1ea) | ![Prediction 2](https://github.com/user-attachments/assets/6233730b-fd64-4469-96ed-0b7aa2a28859) | ![Prediction 3](https://github.com/user-attachments/assets/69dc1adf-1254-410f-9182-5bb2c22ade12) |
 
-```markdown
-[![Video Preview](imgs/video-thumb.jpg)](https://github.com/vinilazzeri/detector-veiculos/assets/your_video_link)
-```
+## 🎥 Demo
+
+Veja abaixo um exemplo do sistema em funcionamento:
+
+![Demo](https://s5.ezgif.com/tmp/ezgif-5b9431816e04d3.gif)
 
 ---
 

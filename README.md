@@ -76,10 +76,13 @@ Below are sample predictions made by the YOLOv8 model on test images and videos:
 ## 🎥 Demo
 
 Veja abaixo um exemplo do sistema em funcionamento:
-Em imagem 
+
+Em imagem
+
 ![Demo Imagem](https://github.com/user-attachments/assets/906e7557-eee0-47a0-b463-4289026eeb9d)
 
 Em vídeo
+
 ![Demo Video](https://github.com/user-attachments/assets/46b33bcc-d933-4f91-9dff-90a2d96e5d81)
 
 

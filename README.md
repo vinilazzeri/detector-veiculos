@@ -37,7 +37,8 @@ pip install -r requirements.txt
 ## 🖥️ Running the Streamlit App
 
 ```bash
-streamlit run scripts/app.py
+cd scripts
+streamlit run app.py
 ```
 
 This will launch a local web interface where you can upload images or videos and visualize the detection results in real time.
@@ -76,7 +77,8 @@ Below are sample predictions made by the YOLOv8 model on test images and videos:
 
 Veja abaixo um exemplo do sistema em funcionamento:
 
-![Demo](https://s5.ezgif.com/tmp/ezgif-5b9431816e04d3.gif)
+![Demo](https://github.com/user-attachments/assets/906e7557-eee0-47a0-b463-4289026eeb9d)
+
 
 ---
 
